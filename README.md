@@ -4,8 +4,15 @@
 
 ## Description
 
-Wave.io is an advanced audio analytics platform designed to automate dashboard creation, feedback and report generation, and provide services for audio-based chat interactions. Our platform streamlines the process of analyzing audio data, extracting key insights, and facilitating communication through audio chat capabilities.
+Wave.io is an innovative and comprehensive audio analytics platform that empowers businesses to unlock valuable insights from their audio data. Leveraging cutting-edge technologies and advanced algorithms, Wave.io offers a wide range of features tailored to meet the diverse needs of modern enterprises.
 
+At the core of Wave.io's capabilities is its diarization functionality, which enables users to segment audio recordings into distinct speaker segments. Whether it's analyzing customer calls, transcribing interviews, or dissecting meeting recordings, Wave.io's diarization feature provides a seamless and accurate way to organize audio data.
+
+Furthermore, Wave.io boasts state-of-the-art automatic speech recognition (ASR) capabilities, allowing users to transcribe audio content into text with remarkable precision. Supporting multiple languages and dialects, Wave.io's ASR feature facilitates efficient content indexing, transcription services, and content analysis, saving businesses valuable time and resources.
+
+In addition to diarization and ASR, Wave.io offers powerful keyword extraction capabilities, enabling users to identify and categorize key insights from their audio data. By classifying audio content into predefined categories such as positive feedback, negative feedback, constructive feedback, competitor performance, products, conversation topics, and issues, Wave.io helps businesses gain deeper insights into customer sentiment, product features, and service quality.
+
+With Wave.io, organizations can streamline their data analysis workflows, automate tedious tasks, and extract actionable insights from their audio recordings. By leveraging Wave.io's advanced features, businesses can make data-driven decisions, optimize their operations, and drive business growth in today's competitive landscape.
 ---
 
 ## Table of Contents
